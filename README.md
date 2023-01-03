@@ -82,7 +82,7 @@ A partir dos resultados dessa seção você deve analisar as seguintes questões
 
 1. Quais foram os horários escolhidos para cada dataset?
 2. O que você pôde observar a partir dos histogramas dos datasets?
-3. Comente sobre as diferenças e/ou similaridades entre os datasets 1 e 2, 3 e 4, 5 e 6, 7 e
+3. Comente sobre as diferenças e/ou similaridades entre os datasets 1 e 2, 3 e 4, 5 e 6, 7 e 8
 8. O objetivo é comparar as características dos datasets com a maior mediana em um
 determinado horário com os datasets com a maior média em um determinado horário.
 4. É possível caracterizar os datasets acima por uma variável aleatória da literatura?
