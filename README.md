@@ -1,8 +1,10 @@
+<a href="https://colab.research.google.com/github/gpbraun/projeto-probest/blob/main/src/projeto_probest.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # Projeto do Curso
 
-COE241 -- Estatística e Modelos Probabilísticos
+`COE241` - Estatística e Modelos Probabilísticos
 
-COS868 -- Probabilidade e Estatística para Aprendizado de Máquina
+`COS868` - Probabilidade e Estatística para Aprendizado de Máquina
 
 Segundo Semestre de 2022
 
